@@ -31,9 +31,5 @@ transpose = "0.2"
 [dev-dependencies]
 criterion = "*"
 
-[[bench]]
-name = "byte_to_float"
-harness = false
-
 [[bin]]
 name = "hash_image"
